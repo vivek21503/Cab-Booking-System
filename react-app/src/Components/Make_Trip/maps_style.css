@@ -1,0 +1,4 @@
+/*removing directions panel*/
+.directions-control .directions-control-directions {
+    display: none;
+}

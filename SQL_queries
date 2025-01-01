@@ -1,0 +1,6 @@
+Changes in the tables
+# changing the trips table columns
+
+alter table trips_table
+modify column Payment_Mode varchar(50) default("ONLINE");
+

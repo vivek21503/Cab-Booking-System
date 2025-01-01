@@ -1,0 +1,131 @@
+.Account{
+    position: absolute;
+    top: 100px;
+}
+.inside_profile{
+    position: fixed;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #171426;
+    margin: 13px 75px 60px 140px;
+    border-radius: 30px;
+    height: 535px;
+    width: 80%;
+}
+
+.heading h3{
+    margin-top: 80px;
+    margin-left: 160px;
+    margin-bottom: 16px;
+}
+.heading h2{
+    margin-left: 160px;
+}
+
+
+.checked {
+    color: orange;
+}
+
+
+.left_profile{
+    padding: 5% 0%;
+    float: left;
+    width: 29%;
+    margin-left: 60px;
+}
+
+img{
+    margin-left: 55px;
+}
+
+.rating{
+    margin-top: 3%;
+    margin-left: 33%;
+}
+
+.rating p {
+    margin-left: 0%;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.right_profile{
+    width:60%;
+    /* position: relative; */
+    float: right;
+    height: 100%;
+    
+    background-color:#161818;
+    
+}
+
+.name{
+    display: flex;
+    margin:10%;
+    margin: 10% 10% 5% 10%;
+    
+}
+.email{
+    display: flex;
+    align-items: baseline;
+    margin: 0% 5% 5% 10%;
+
+
+    
+}
+
+.email p{
+    margin-right: 5%;
+}
+
+.lastname{
+    padding-left: 20%;
+}
+.phone1{
+    display: flex;
+    align-items: center;
+    align-items: baseline;
+
+
+}
+.address{
+    /* text-align: center; */
+    align-items: center;
+    display: flex;
+    align-items: baseline;
+
+
+    
+}
+
+.button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 26%;
+}
+  
+  .button1 {
+    background-color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid #112112;
+    margin-left: 26%;
+
+}
+  
+  .button1:hover {
+    background-color: red;
+    color: white;
+    margin-left: 26%;
+
+}

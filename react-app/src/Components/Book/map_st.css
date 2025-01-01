@@ -1,0 +1,6 @@
+.map-with-no-search .mapboxgl-ctrl-top-left{
+    display: none;
+}
+.map-with-no-search .mapboxgl-ctrl-top-right{
+    display: none;
+}

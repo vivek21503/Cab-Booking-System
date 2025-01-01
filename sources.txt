@@ -1,0 +1,60 @@
+For Autocomplete we will use react-google-places-autocomplete : API Key: AIzaSyCPmTYeh2JNjVR3UIUzwH_D4h65z0ExDKQ
+
+react-google-maps
+
+google-maps-direction
+
+installed libraries: 
+nodemon, express, react-google-places-autocomplete, dotenv, axios, cors
+can use -- emailJS
+
+@mapbox/mapbox-gl-directions, mapbox-gl
+
+######################read about -> body-parser and mysql2 and toast
+
+
+for axois requests : https://www.positronx.io/react-axios-send-asynchronous-http-post-request-tutorial/
+
+
+we will take a 1km radius circle and search cabs in it, if no cab found we will do this for 2 km radius circle and so on..
+we will do this till 5km and then we say no cab available around you.
+0.015060 degrees for 1 km.
+
+for payment and feedback page
+if distance between client and destination remains less than 10% we will say: You will be arriving in time mins.
+
+In trips section we will say that payment is pending and will be completed if verified by driver by cash or verified by razorpay which changes the payment_done variable to true.
+
+In trips section only we will take feedback which will be stored in feedback section and will affect the rating of drivers.
+
+
+
+app will select drivers on basis of rating and distance from the client.
+
+Quesion: 
+How do we get realtime location of driver and how do we display them on map??
+location of driver will be updated in map after every 1 min.
+we will update the location of driver in map after every 5 mins.
+How we will do this we will simply make a marker of driver and update the marker after every change of coordinates of driver.
+we will use Fetch hook and update the coordinates of driver and take them from database after every 5 min. -- for this we will use setInterval method.
+
+
+
+---------------------------------Important----------------------------------------
+how to use php my admin
+
+major: how to use php myadmin with server when hosting
+
+
+
+
+
+
+
+setting up mysql with nodejs full -- https://www.youtube.com/watch?v=344Zv2m9TYI
+
+
+
+
+
+loading animation: https://giphy.com/gifs/hand-bored-waiting-xTkcEQACH24SMPxIQg
