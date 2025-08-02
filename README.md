@@ -1,6 +1,6 @@
 # 🚖 TAXIWALA - Cab Booking System
 
-**TAXIWALA** is a real-time web-based cab booking system built using modern web technologies. It provides a seamless interface for both users and drivers, with intelligent location-based search, fare estimation, and efficient ride allocation mechanisms. The system ensures minimal wait time, dynamic ride matching, and robust user-driver interactions.
+**TAXIWALA** is a real-time web-based cab booking system. It provides a seamless interface for both users and drivers, with intelligent location-based search, fare estimation, and efficient ride allocation mechanisms. The system ensures minimal wait time, dynamic ride matching, and robust user-driver interactions.
 
 ---
 
