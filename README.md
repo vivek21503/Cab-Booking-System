@@ -37,7 +37,7 @@
 - **Backend:** Node.js, Express.js  
 - **Frontend:** HTML, CSS, React 
 - **Database:** MySQL  
-- **APIs & Libraries:** Mapbox APIs (Geolocation, Reverse Geocoding)
+- **APIs:** Mapbox APIs (Geolocation, Reverse Geocoding)
 
 
 
