@@ -23,7 +23,7 @@
   - Clients can give feedback and rate drivers after the trip.
 
 - 💸 **Fare Calculation:**  
-  - Uses path-based (not Euclidean) distance fetched via Mapbox APIs.  
+  - Uses path-based distance fetched via Mapbox APIs.  
   - Predicts ride cost based on distance and vehicle type.
 
 - 🕒 **Efficient Ride Management:**  
@@ -38,6 +38,8 @@
 - **Frontend:** HTML, CSS, React 
 - **Database:** MySQL  
 - **APIs & Libraries:** Mapbox APIs (Geolocation, Reverse Geocoding)
-  
-   git clone https://github.com/your-username/taxiwala-cab-booking.git
-   cd taxiwala-cab-booking
+
+
+
+
+
